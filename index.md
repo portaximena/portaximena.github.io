@@ -1,4 +1,4 @@
-Little Architecture Stuff to read while pooping.
+Architecture and Interiors.
 
 <ul>
   {% for post in site.posts %}

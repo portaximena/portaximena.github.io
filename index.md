@@ -1,3 +1,5 @@
+Little Architecture Stuff to read while pooping.
+
 <ul>
   {% for post in site.posts %}
     <li>
